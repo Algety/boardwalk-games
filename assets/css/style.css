@@ -120,6 +120,13 @@ background-color: var(--highlight-color);
     background-color: transparent;
     border-color: var(--secondary-color);
 }
+
+#student-discount {
+    background-color: var(--primary-color);
+    padding: 5px 25px;
+    font-size: 120%;
+    color: white;
+}
 /* Media queries */
 
 /* Media devices (tablets, 768px and up) */
